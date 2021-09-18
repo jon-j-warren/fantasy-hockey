@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.0.0__
+__Version 1.1.0__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -206,11 +206,13 @@ you must draft at that position. There will be no trading of draft positions.
 ### Rosters
 These will be the roster positions for the upcoming season:
 * 2 Centers
-* 2 Left Wingers
-* 2 Right Wingers
-* 4 Defencemen
+* 1 Left Winger
+* 1 Right Winger
+* 2 Wingers (either side)
+* 3 Defencemen
+* 1 Utility (Forward or Defenceman)
 * 2 Goalies
-* 3 Bench Spots
+* 4 Bench Spots
 * 1 IR+ Spot
 
 <br />
@@ -247,7 +249,7 @@ cap at __$10 per day__, and also will cap at __$40 for the season__. If a prop
 violation occurs for a past date, the date of the infraction will be the day
 used to check if the cap was hit. In the event where there is no day associated
 with the infraction or the day that the infraction occurred is not explicitly
-released, then the day that the infraction was announced will server as the day
+released, then the day that the infraction was announced will serve as the day
 used to associate with the cap.
 
 Here are the props for this season:
@@ -342,7 +344,7 @@ will be as follows:
 
 I don't care if you make side deals to split the pot if you want, but know that
 I will be sending out the prize amounts based solely on the structure above. If
-you make a side deal with someone and they don't end up their end of the
+you make a side deal with someone and they don't hold up their end of the
 bargain, that's on you!
 
 <br />
