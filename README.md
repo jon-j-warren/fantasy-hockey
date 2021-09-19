@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.2.0__
+__Version 1.3.0__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -61,24 +61,26 @@ __Top 5__
 The following team managers have confirmed their participation for the 2021
 season:
 
-_Asterisk (*) placed beside commissioner_
+_Asterisk (*) placed beside division leader_
 
-Team Manager          | Team Name               | Paid Buy-In | Draft Position
---------------------- | ----------------------- | ----------- | --------------
-Baylee Rubinoff       | Baylee's Team           | ❌         | ?
-Ben Share             | Ben's Team              | ❌         | ?
-Cameron Butler        | Cameron's Team          | ❌         | ?
-Daniel Adams          | Daniel's Team           | ❌         | ?
-George Reisman        | George's Team           | ❌         | ?
-James Renwick         | James's Team            | ❌         | ?
-Jon Warren *          | Jon's Team              | ✔️         | ?
-Josh Polisuk          | Josh's Team             | ❌         | ?
-Matt Renwick          | Matt's Team             | ❌         | ?
-Riley Butler          | Riley's Team            | ❌         | ?
-Sam Ives              | Sam's Team              | ❌         | ?
-Shane Liquornik       | Shane's Team            | ❌         | ?
-Stuart McNamara       | Stuart's Team           | ❌         | ?
-Will Ives             | Will's Team             | ❌         | ?
+_Double Asterisk (**) placed beside commissioner_
+
+Team Manager          | Team Name               | Paid Buy-In | Draft Position | Division
+--------------------- | ----------------------- | ----------- | -------------- | --------
+Baylee Rubinoff *     | Baylee's Team           | ✔️         | ?               | Red
+Ben Share *           | Ben's Team              | ✔️         | ?               | Yellow
+Cameron Butler *      | Cameron's Team          | ✔️         | ?               | Green
+Daniel Adams          | Daniel's Team           | ❌         | ?               | ?
+George Reisman        | George's Team           | ✔️         | ?               | ?
+James Renwick         | James's Team            | ❌         | ?               | ?
+Jon Warren **         | Jon's Team              | ✔️         | ?               | ?
+Josh Polisuk *        | Josh's Team             | ✔️         | ?               | Blue
+Matt Renwick          | Matt's Team             | ❌         | ?               | ?
+Riley Butler          | Riley's Team            | ✔️         | ?               | ?
+Sam Ives              | Sam's Team              | ✔️         | ?               | ?
+Shane Liquornik       | Shane's Team            | ❌         | ?               | ?
+Stuart McNamara       | Stuart's Team           | ❌         | ?               | ?
+Will Ives             | Will's Team             | ❌         | ?               | ?
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
@@ -328,8 +330,18 @@ Rejoice with your fellow division mates! The divisions serve no purpose other
 than to use for a fun prop. Root on your division mates since their success is
 now important to you too! At the end of the season, after playoffs have
 concluded and the winner has been decided, each of the division mates of the
-winner (excluding the winner themself) will receive $10 just for being in the
-same division as the winner!
+winner (excluding the winner themself) will receive $60 just for being in the
+same division as the winner! If the 2nd or 3rd place finisher is also in the
+same division as the winner, then the prizes will stack.
+
+Divisions will be split into 4 groups of 4, and the division leaders will make
+their selections as to who will be a part of their division immediately
+following the draft. Division leaders will be determined by the first four
+people to both pay their buy-in fee __and__ register their team in the pool.
+When it comes time for the leaders to draft their divisions, the order will be
+determined by the order of who paid their buy-in and registered their team
+first. The selection process will restart from the top (aka, it will __not__
+snake) until all divisions have been completely filled.
 
 <br />
 
