@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.3.0__
+__Version 1.3.1__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -65,22 +65,22 @@ _Asterisk (*) placed beside division leader_
 
 _Double Asterisk (**) placed beside commissioner_
 
-Team Manager          | Team Name               | Paid Buy-In | Draft Position | Division
---------------------- | ----------------------- | ----------- | -------------- | --------
-Baylee Rubinoff *     | Baylee's Team           | ✔️         | ?               | Red
-Ben Share *           | Ben's Team              | ✔️         | ?               | Yellow
-Cameron Butler *      | Cameron's Team          | ✔️         | ?               | Green
-Daniel Adams          | Daniel's Team           | ❌         | ?               | ?
-George Reisman        | George's Team           | ✔️         | ?               | ?
-James Renwick         | James's Team            | ❌         | ?               | ?
-Jon Warren **         | Jon's Team              | ✔️         | ?               | ?
-Josh Polisuk *        | Josh's Team             | ✔️         | ?               | Blue
-Matt Renwick          | Matt's Team             | ❌         | ?               | ?
-Riley Butler          | Riley's Team            | ✔️         | ?               | ?
-Sam Ives              | Sam's Team              | ✔️         | ?               | ?
-Shane Liquornik       | Shane's Team            | ❌         | ?               | ?
-Stuart McNamara       | Stuart's Team           | ❌         | ?               | ?
-Will Ives             | Will's Team             | ❌         | ?               | ?
+Team Manager          | Team Name               | Draft Position | Division
+--------------------- | ----------------------- | -------------- | --------
+Baylee Rubinoff *     | Baylee's Team           | ?              | A
+Ben Share *           | Ben's Team              | ?              | D
+Cameron Butler *      | Cameron's Team          | ?              | B
+Daniel Adams          | Daniel's Team           | ?              | ?
+George Reisman        | George's Team           | ?              | ?
+James Renwick         | James's Team            | ?              | ?
+Jon Warren **         | Jon's Team              | ?              | ?
+Josh Polisuk *        | Josh's Team             | ?              | C
+Matt Renwick          | Matt's Team             | ?              | ?
+Riley Butler          | Riley's Team            | ?              | ?
+Sam Ives              | Sam's Team              | ?              | ?
+Shane Liquornik       | Shane's Team            | ?              | ?
+Stuart McNamara       | Stuart's Team           | ?              | ?
+Will Ives             | Will's Team             | ?              | ?
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
