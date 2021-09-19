@@ -89,7 +89,7 @@ avoid the need to constantly update this section with new team names_
 
 __Draft Day__: October 10th, 2021
 
-__Draft Time__: 8:00pm EDT
+__Draft Time__: 2:00pm EDT
 
 __Buy-In__: $60 per team (send to jonjakobwarren@gmail.com)
 
@@ -150,7 +150,7 @@ avoid ridicule from the other team managers.
 <br />
 
 ### Draft Day
-__Draft Date & Time:__ Sunday Oct 10th, 2021 @ 8:00pm EDT
+__Draft Date & Time:__ Sunday Oct 10th, 2021 @ 2:00pm EDT
 
 The commissioner will make their best effort to ensure that the date and time
 chosen for the draft can accomodate the most amount of people possible (ideally
