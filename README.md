@@ -94,7 +94,7 @@ __Draft Time__: 2:00pm EDT
 __Buy-In__: $60 per team (send to jonjakobwarren@gmail.com)
 
 __Provider__: Yahoo Fantasy Sports (sign up [here](
-    https://hockey.fantasysports.yahoo.com/hockey/30254
+    https://hockey.fantasysports.yahoo.com/hockey/30254/invitation?key=a87eea29404b98d9&soc_trk=lnk&ikey=416ead4489ef943b
 ))
 
 <br />
