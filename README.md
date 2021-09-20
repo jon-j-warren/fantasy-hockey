@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.3.1__
+__Version 1.3.2__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -37,16 +37,17 @@ be promptly corrected in this document.
 <br />
 
 ### Hall of Fame
-Year | 🥇 1st (3pts)  | 🥈 2nd (2pts)  | 🥉 3rd (1pt)   | ☠️ Last (-2pts)
----- | --------------- | -------------- | -------------- | ----------------
-2021 | --              | --             | --             | --
-2020 | Stuart McNamara | Josh Polisuk   | Matt Renwick   | George Reisman
-2019 | Stuart McNamara | Matt Renwick   | George Reisman | James Renwick
-2018 | Stuart McNamara | James Renwick  | Ben Share      | Chris Landon
-2017 | Josh Polisuk    | George Reisman | Matt Renwick   | Sam Ives
-2016 | Josh Polisuk    | Matt Renwick   | Brittany Gibb  | Hannah Wagner
-2015 | Josh Polisuk    | Ben Share      | Jon Warren     | Matt Smith
-2014 | Ben Share       | Matt Smith     | George Reisman | Josh Polisuk
+_*Draft position denoted by bracketed number beside name_
+Year | # of Teams | 🥇 1st (3pts)      | 🥈 2nd (2pts)      | 🥉 3rd (1pt)       | ☠️ Last (-2pts)
+---- | ---------- | ------------------- | ------------------ | ------------------ | ----------------
+2021 | 16         | --                  | --                 | --                 | --
+2020 | 14         | Stuart McNamara (5) | Josh Polisuk (3)   | Matt Renwick (10)  | George Reisman (12)
+2019 | 12         | Stuart McNamara (7) | Matt Renwick (11)  | George Reisman (9) | James Renwick (10)
+2018 | 12         | Stuart McNamara (4) | James Renwick (11) | Ben Share (7)      | Chris Landon (3)
+2017 | 12         | Josh Polisuk (5)    | George Reisman (3) | Matt Renwick (2)   | Sam Ives (12)
+2016 | 12         | Josh Polisuk (12)   | Matt Renwick (7)   | Brittany Gibb (4)  | Hannah Wagner (9)
+2015 | 12         | Josh Polisuk (6)    | Ben Share (4)      | Jon Warren (5)     | Matt Smith (3)
+2014 | 10         | Ben Share (3)       | Matt Smith (8)     | George Reisman (7) | Josh Polisuk (5)
 
 __Top 5__
 1. 🥇 __Josh Polisuk__ (9 pts)
