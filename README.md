@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.3.2__
+__Version 1.4.0__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -341,8 +341,8 @@ following the draft. Division leaders will be determined by the first four
 people to both pay their buy-in fee __and__ register their team in the pool.
 When it comes time for the leaders to draft their divisions, the order will be
 determined by the order of who paid their buy-in and registered their team
-first. The selection process will restart from the top (aka, it will __not__
-snake) until all divisions have been completely filled.
+first. The selection process will snake until all divisions have been completely
+filled.
 
 <br />
 
