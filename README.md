@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.4.0__
+__Version 1.4.1__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -80,7 +80,8 @@ Matt Renwick          | Matt's Team             | ?              | ?
 Riley Butler          | Riley's Team            | ?              | ?
 Sam Ives              | Sam's Team              | ?              | ?
 Shane Liquornik       | Shane's Team            | ?              | ?
-Stuart McNamara       | Stuart's Team           | ?              | ?
+Stuart Boyd           | StuartB's Team          | ?              | ?
+Stuart McNamara       | StuartM's Team          | ?              | ?
 Will Ives             | Will's Team             | ?              | ?
 
 _Note: Team names will be locked on the first day of the regular season to
@@ -196,8 +197,8 @@ you must draft at that position. There will be no trading of draft positions.
   to protest the trade
 * Playoffs start week 22 and will involve the top 8 teams in the league
 * Playoff tie-breakers are awarded to the higher seed from the regular season
-* There will be two divisions to which everyone will be randomly assigned, but
-  they serve no purpose other than playing into the props
+* There will be four divisions to which everyone will be assigned, but
+  they serve no purpose other than playing into the Team Bonding prop
 * Prop violations are always in effect for __all__ teams, including eliminated
   teams during the playoffs. Teams will become locked once they have been
   eliminated to help prevent circumvention. Attempts to circumvent prop
