@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.4.1__
+__Version 1.4.2__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -82,6 +82,7 @@ Sam Ives              | Sam's Team              | ?              | ?
 Shane Liquornik       | Shane's Team            | ?              | ?
 Stuart Boyd           | StuartB's Team          | ?              | ?
 Stuart McNamara       | StuartM's Team          | ?              | ?
+Tyler Corlett         | Tyler's Team            | ?              | ?
 Will Ives             | Will's Team             | ?              | ?
 
 _Note: Team names will be locked on the first day of the regular season to
