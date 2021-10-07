@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.4.2__
+__Version 1.4.3__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -68,22 +68,22 @@ _Double Asterisk (**) placed beside commissioner_
 
 Team Manager          | Team Name               | Draft Position | Division
 --------------------- | ----------------------- | -------------- | --------
-Baylee Rubinoff *     | Baylee's Team           | ?              | A
-Ben Share *           | Ben's Team              | ?              | D
-Cameron Butler *      | Cameron's Team          | ?              | B
-Daniel Adams          | Daniel's Team           | ?              | ?
-George Reisman        | George's Team           | ?              | ?
-James Renwick         | James's Team            | ?              | ?
-Jon Warren **         | Jon's Team              | ?              | ?
-Josh Polisuk *        | Josh's Team             | ?              | C
-Matt Renwick          | Matt's Team             | ?              | ?
-Riley Butler          | Riley's Team            | ?              | ?
-Sam Ives              | Sam's Team              | ?              | ?
-Shane Liquornik       | Shane's Team            | ?              | ?
-Stuart Boyd           | StuartB's Team          | ?              | ?
-Stuart McNamara       | StuartM's Team          | ?              | ?
-Tyler Corlett         | Tyler's Team            | ?              | ?
-Will Ives             | Will's Team             | ?              | ?
+Baylee Rubinoff *     | Baylee's Team           | 4              | A
+Ben Share *           | Ben's Team              | 15             | D
+Cameron Butler *      | Cameron's Team          | 12             | B
+Daniel Adams          | Daniel's Team           | 16             | ?
+George Reisman        | George's Team           | 11             | ?
+James Renwick         | James's Team            | 8              | ?
+Jon Warren **         | Jon's Team              | 1              | ?
+Josh Polisuk *        | Josh's Team             | 5              | C
+Matt Renwick          | Matt's Team             | 3              | ?
+Riley Butler          | Riley's Team            | 9              | ?
+Sam Ives              | Sam's Team              | 6              | ?
+Shane Liquornik       | Shane's Team            | 10             | ?
+Stuart Boyd           | StuartB's Team          | 13             | ?
+Stuart McNamara       | StuartM's Team          | 14             | ?
+Tyler Corlett         | Tyler's Team            | 7              | ?
+Will Ives             | Will's Team             | 2              | ?
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
