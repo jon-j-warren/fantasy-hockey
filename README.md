@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.4.3__
+__Version 1.5.0__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -8,6 +8,7 @@ __Version 1.4.3__
     * [Participants](#participants)
     * [Summary of Important Info](#summary-of-important-info)
     * [Special Notes](#special-notes)
+    * [Suggestions](#suggestions)
 * [The Draft](#the-draft)
     * [Buy-In and Pre-Draft](#buy-in-and-pre-draft)
     * [Draft Day](#draft-day)
@@ -68,22 +69,22 @@ _Double Asterisk (**) placed beside commissioner_
 
 Team Manager          | Team Name               | Draft Position | Division
 --------------------- | ----------------------- | -------------- | --------
-Baylee Rubinoff *     | Baylee's Team           | 4              | A
-Ben Share *           | Ben's Team              | 15             | D
-Cameron Butler *      | Cameron's Team          | 12             | B
-Daniel Adams          | Daniel's Team           | 16             | ?
-George Reisman        | George's Team           | 11             | ?
-James Renwick         | James's Team            | 8              | ?
 Jon Warren **         | Jon's Team              | 1              | ?
-Josh Polisuk *        | Josh's Team             | 5              | C
+Will Ives             | Will's Team             | 2              | ?
 Matt Renwick          | Matt's Team             | 3              | ?
-Riley Butler          | Riley's Team            | 9              | ?
+Baylee Rubinoff *     | Baylee's Team           | 4              | A
+Josh Polisuk *        | Josh's Team             | 5              | C
 Sam Ives              | Sam's Team              | 6              | ?
+Tyler Corlett         | Tyler's Team            | 7              | ?
+James Renwick         | James's Team            | 8              | ?
+Riley Butler          | Riley's Team            | 9              | ?
 Shane Liquornik       | Shane's Team            | 10             | ?
+George Reisman        | George's Team           | 11             | ?
+Cameron Butler *      | Cameron's Team          | 12             | B
 Stuart Boyd           | StuartB's Team          | 13             | ?
 Stuart McNamara       | StuartM's Team          | 14             | ?
-Tyler Corlett         | Tyler's Team            | 7              | ?
-Will Ives             | Will's Team             | 2              | ?
+Ben Share *           | Ben's Team              | 15             | D
+Daniel Adams          | Daniel's Team           | 16             | ?
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
@@ -141,6 +142,12 @@ Challenge system) will also be set up with a low buy-in of $10.
 
 <br />
 
+### Suggestions
+
+* Waiver wire priority determined by average draft pick time
+
+<br />
+
 ## The Draft
 
 ### Buy-In and Pre-Draft
@@ -164,7 +171,7 @@ late or leave early, ensure that either you have someone available to complete
 your draft for you, or that you set up your autodraft to avoid picking up
 undesireable players.
 
-The draft will follow the usual format of snake ordering. Each team will have 60
+The draft will follow the usual format of snake ordering. Each team will have 45
 seconds to make their pick, and the draft will continue until all rosters have
 been completely filled. Following the draft, all undrafted players will be
 available to select as Free Agents immediately, and trades will become open as
