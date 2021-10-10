@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.5.0__
+__Version 1.5.1__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -69,22 +69,22 @@ _Double Asterisk (**) placed beside commissioner_
 
 Team Manager          | Team Name               | Draft Position | Division
 --------------------- | ----------------------- | -------------- | --------
-Jon Warren **         | Jon's Team              | 1              | ?
-Will Ives             | Will's Team             | 2              | ?
-Matt Renwick          | Matt's Team             | 3              | ?
-Baylee Rubinoff *     | Baylee's Team           | 4              | A
-Josh Polisuk *        | Josh's Team             | 5              | C
-Sam Ives              | Sam's Team              | 6              | ?
-Tyler Corlett         | Tyler's Team            | 7              | ?
-James Renwick         | James's Team            | 8              | ?
-Riley Butler          | Riley's Team            | 9              | ?
-Shane Liquornik       | Shane's Team            | 10             | ?
-George Reisman        | George's Team           | 11             | ?
-Cameron Butler *      | Cameron's Team          | 12             | B
-Stuart Boyd           | StuartB's Team          | 13             | ?
-Stuart McNamara       | StuartM's Team          | 14             | ?
-Ben Share *           | Ben's Team              | 15             | D
-Daniel Adams          | Daniel's Team           | 16             | ?
+Baylee Rubinoff *     | Baylee's Team           | 4              | Deadly Spiders
+Stuart McNamara       | StuartM's Team          | 14             | Deadly Spiders
+Stuart Boyd           | StuartB's Team          | 13             | Deadly Spiders
+Sam Ives              | Sam's Team              | 6              | Deadly Spiders
+Cameron Butler *      | Cameron's Team          | 12             | Eccentric Bandits
+Matt Renwick          | Matt's Team             | 3              | Eccentric Bandits
+Daniel Adams          | Daniel's Team           | 16             | Eccentric Bandits
+Tyler Corlett         | Tyler's Team            | 7              | Eccentric Bandits
+Josh Polisuk *        | Josh's Team             | 5              | Riley+NickRitchie<3
+Riley Butler          | Riley's Team            | 9              | Riley+NickRitchie<3
+James Renwick         | James's Team            | 8              | Riley+NickRitchie<3
+George Reisman        | George's Team           | 11             | Riley+NickRitchie<3
+Ben Share *           | Ben's Team              | 15             | Striking Geckos
+Shane Liquornik       | Shane's Team            | 10             | Striking Geckos
+Jon Warren **         | Jon's Team              | 1              | Striking Geckos
+Will Ives             | Will's Team             | 2              | Striking Geckos
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
