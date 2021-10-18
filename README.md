@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.5.2__
+__Version 1.5.3__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -287,6 +287,14 @@ B is on your IR+ spot and also scores 2 points on the same day, you will be
 in violation and owe $3 (for 4 total benched points). If on that same day, a
 goalie was also benched on this team and earned a non-shutout win, then this
 person would owe $9 total.
+
+Keep in mind that if you pick up a player that is in the middle of a game, they
+will automatically be moved to your bench and will be included in the scope of
+this prop. For example, if a player is having a great night and has 4 points,
+and either after the game (on the same day as the game) or during the game, you
+decide to pick up that player, those 4 points will count as benched points since
+the player is on your bench during that game day and you will be in violation of
+this prop.
 
 __Time Is Money__
 
