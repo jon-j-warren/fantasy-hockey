@@ -1,5 +1,5 @@
 # 2021 Fantasy Hockey
-__Version 1.5.1__
+__Version 1.5.2__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -67,24 +67,24 @@ _Asterisk (*) placed beside division leader_
 
 _Double Asterisk (**) placed beside commissioner_
 
-Team Manager          | Team Name               | Draft Position | Division
---------------------- | ----------------------- | -------------- | --------
-Baylee Rubinoff *     | Baylee's Team           | 4              | Deadly Spiders
-Stuart McNamara       | StuartM's Team          | 14             | Deadly Spiders
-Stuart Boyd           | StuartB's Team          | 13             | Deadly Spiders
-Sam Ives              | Sam's Team              | 6              | Deadly Spiders
-Cameron Butler *      | Cameron's Team          | 12             | Eccentric Bandits
-Matt Renwick          | Matt's Team             | 3              | Eccentric Bandits
-Daniel Adams          | Daniel's Team           | 16             | Eccentric Bandits
-Tyler Corlett         | Tyler's Team            | 7              | Eccentric Bandits
-Josh Polisuk *        | Josh's Team             | 5              | Riley+NickRitchie<3
-Riley Butler          | Riley's Team            | 9              | Riley+NickRitchie<3
-James Renwick         | James's Team            | 8              | Riley+NickRitchie<3
-George Reisman        | George's Team           | 11             | Riley+NickRitchie<3
-Ben Share *           | Ben's Team              | 15             | Striking Geckos
-Shane Liquornik       | Shane's Team            | 10             | Striking Geckos
-Jon Warren **         | Jon's Team              | 1              | Striking Geckos
-Will Ives             | Will's Team             | 2              | Striking Geckos
+Team Manager          | Team Name                  | Draft Position | Division
+--------------------- | -------------------------- | -------------- | --------
+Baylee Rubinoff *     | Kraken a Cold One          | 4              | Deadly Spiders
+Stuart McNamara       | Steady Freddie             | 14             | Deadly Spiders
+Stuart Boyd           | Stuart Boyd's Swag Team    | 13             | Deadly Spiders
+Sam Ives              | Sam's Slam-Dunk Team       | 6              | Deadly Spiders
+Cameron Butler *      | Trotz Tots                 | 12             | Eccentric Bandits
+Matt Renwick          | Jonesing for a Seider      | 3              | Eccentric Bandits
+Daniel Adams          | Dan's Hockey Boys          | 16             | Eccentric Bandits
+Tyler Corlett         | Tyler's Terrific Team      | 7              | Eccentric Bandits
+Josh Polisuk *        | How you Drouin’            | 5              | Riley+NickRitchie<3
+Riley Butler          | Eichel Scott Paper Company | 9              | Riley+NickRitchie<3
+James Renwick         | For Fox sakes              | 8              | Riley+NickRitchie<3
+George Reisman        | Bob Rossky                 | 11             | Riley+NickRitchie<3
+Ben Share *           | Wheeler? I hardly know her | 15             | Striking Geckos
+Shane Liquornik       | The Rat Pack               | 10             | Striking Geckos
+Jon Warren **         | The Blackwood Executioners | 1              | Striking Geckos
+Will Ives             | Will's Woeful Warriors     | 2              | Striking Geckos
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
