@@ -1,5 +1,5 @@
-# 2021 Fantasy Hockey
-__Version 1.5.3__
+# 2022-23 Fantasy Hockey
+__Version 1.6.0__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -27,7 +27,7 @@ __Version 1.5.3__
 ## Overview
 
 ### Foreword
-This is an official overview of the 2021 fantasy hockey season. All rules,
+This is an official overview of our fantasy hockey pool. All rules,
 categories, scoring systems, prop bets, prizes, and anything to do with the
 league in it's entirety will be contained here. This should always be
 referenced as the source-of-truth. In case of any ambiguity in this
@@ -39,52 +39,50 @@ be promptly corrected in this document.
 
 ### Hall of Fame
 _*Draft position denoted by bracketed number beside name_
-Year | # of Teams | 🥇 1st (3pts)      | 🥈 2nd (2pts)      | 🥉 3rd (1pt)       | ☠️ Last (-2pts)
----- | ---------- | ------------------- | ------------------ | ------------------ | ----------------
-2021 | 16         | --                  | --                 | --                 | --
-2020 | 14         | Stuart McNamara (5) | Josh Polisuk (3)   | Matt Renwick (10)  | George Reisman (12)
-2019 | 12         | Stuart McNamara (7) | Matt Renwick (11)  | George Reisman (9) | James Renwick (10)
-2018 | 12         | Stuart McNamara (4) | James Renwick (11) | Ben Share (7)      | Chris Landon (3)
-2017 | 12         | Josh Polisuk (5)    | George Reisman (3) | Matt Renwick (2)   | Sam Ives (12)
-2016 | 12         | Josh Polisuk (12)   | Matt Renwick (7)   | Brittany Gibb (4)  | Hannah Wagner (9)
-2015 | 12         | Josh Polisuk (6)    | Ben Share (4)      | Jon Warren (5)     | Matt Smith (3)
-2014 | 10         | Ben Share (3)       | Matt Smith (8)     | George Reisman (7) | Josh Polisuk (5)
+Year | # of Teams | 🥇 1st (3pts)       | 🥈 2nd (2pts)      | 🥉 3rd (1pt)       | ☠️ Last (-2pts)
+---- | ---------- | -------------------- | ------------------ | ------------------ | ----------------
+2021 | 16         | Stuart McNamara (14) | Matt Renwick (3)   | James Renwick (8)  | Tyler Corlett (7)
+2020 | 14         | Stuart McNamara (5)  | Josh Polisuk (3)   | Matt Renwick (10)  | George Reisman (12)
+2019 | 12         | Stuart McNamara (7)  | Matt Renwick (11)  | George Reisman (9) | James Renwick (10)
+2018 | 12         | Stuart McNamara (4)  | James Renwick (11) | Ben Share (7)      | Chris Landon (3)
+2017 | 12         | Josh Polisuk (5)     | George Reisman (3) | Matt Renwick (2)   | Sam Ives (12)
+2016 | 12         | Josh Polisuk (12)    | Matt Renwick (7)   | Brittany Gibb (4)  | Hannah Wagner (9)
+2015 | 12         | Josh Polisuk (6)     | Ben Share (4)      | Jon Warren (5)     | Matt Smith (3)
+2014 | 10         | Ben Share (3)        | Matt Smith (8)     | George Reisman (7) | Josh Polisuk (5)
 
 __Top 5__
+2. 🥈 __Stuart McNamara__ (12 pts)
 1. 🥇 __Josh Polisuk__ (9 pts)
-2. 🥈 __Stuart McNamara__ (9 pts)
-3. 🥉 __Ben Share__ (6 pts)
-4. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Matt Renwick__ (6 pts)
+4. 🥉 __Matt Renwick__ (8 pts)
+3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Ben Share__ (6 pts)
 5. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__George Reisman__ (2 pts)
 
 <br />
 
 ### Participants
-The following team managers have confirmed their participation for the 2021
+The following team managers have confirmed their participation for the 2022
 season:
 
-_Asterisk (*) placed beside division leader_
+_Asterisk (*) placed beside division captain_
 
 _Double Asterisk (**) placed beside commissioner_
 
 Team Manager          | Team Name                  | Draft Position | Division
 --------------------- | -------------------------- | -------------- | --------
-Baylee Rubinoff *     | Kraken a Cold One          | 4              | Deadly Spiders
-Stuart McNamara       | Steady Freddie             | 14             | Deadly Spiders
-Stuart Boyd           | Stuart Boyd's Swag Team    | 13             | Deadly Spiders
-Sam Ives              | Sam's Slam-Dunk Team       | 6              | Deadly Spiders
-Cameron Butler *      | Trotz Tots                 | 12             | Eccentric Bandits
-Matt Renwick          | Jonesing for a Seider      | 3              | Eccentric Bandits
-Daniel Adams          | Dan's Hockey Boys          | 16             | Eccentric Bandits
-Tyler Corlett         | Tyler's Terrific Team      | 7              | Eccentric Bandits
-Josh Polisuk *        | How you Drouin’            | 5              | Riley+NickRitchie<3
-Riley Butler          | Eichel Scott Paper Company | 9              | Riley+NickRitchie<3
-James Renwick         | For Fox sakes              | 8              | Riley+NickRitchie<3
-George Reisman        | Bob Rossky                 | 11             | Riley+NickRitchie<3
-Ben Share *           | Wheeler? I hardly know her | 15             | Striking Geckos
-Shane Liquornik       | The Rat Pack               | 10             | Striking Geckos
-Jon Warren **         | The Blackwood Executioners | 1              | Striking Geckos
-Will Ives             | Will's Woeful Warriors     | 2              | Striking Geckos
+Baylee Rubinoff       | x                          | x              | x
+Ben Share             | x                          | x              | x
+Cameron Butler        | x                          | x              | x
+Daniel Adams          | x                          | x              | x
+George Reisman        | x                          | x              | x
+James Renwick         | x                          | x              | x
+Jon Warren **         | x                          | x              | x
+Josh Polisuk          | x                          | x              | x
+Matt Renwick          | x                          | x              | x
+Riley Butler          | x                          | x              | x
+Sam Ives              | x                          | x              | x
+Shane Liquornik       | x                          | x              | x
+Stuart McNamara       | x                          | x              | x
+Will Ives             | x                          | x              | x
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
@@ -93,14 +91,14 @@ avoid the need to constantly update this section with new team names_
 
 ### Summary of Important Info
 
-__Draft Day__: October 10th, 2021
+__Draft Day__: Wednesday, Sept. 28, 2022
 
-__Draft Time__: 2:00pm EDT
+__Draft Time__: 8:30pm ET
 
-__Buy-In__: $60 per team (send to jonjakobwarren@gmail.com)
+__Buy-In__: $100 (send to jonjakobwarren@gmail.com) ($70 buy-in, $30 prop coverage)
 
 __Provider__: Yahoo Fantasy Sports (sign up [here](
-    https://hockey.fantasysports.yahoo.com/hockey/30254/invitation?key=a87eea29404b98d9&soc_trk=lnk&ikey=416ead4489ef943b
+    https://hockey.fantasysports.yahoo.com/hockey/31135/invitation?key=f3f7ab84b60fef47
 ))
 
 <br />
@@ -138,11 +136,13 @@ Playoff pool will not be hosted on Yahoo Sports (we will instead use Fantrax)
 and we will be using Rotisserie format rather than Head-To-Head categories for
 scoring. Buy-in for playoff pool will likely be $20, but more details will come
 towards the end of the regular season. A playoff bracket (using the NHL Bracket
-Challenge system) will also be set up with a low buy-in of $10.
+Challenge system) will also be set up with a low buy-in as well (likely $10).
 
 <br />
 
 ### Suggestions
+Suggestions to improve the league will be kept track here. This will change
+frequently throughout the season.
 
 * Waiver wire priority determined by average draft pick time
 
@@ -151,18 +151,20 @@ Challenge system) will also be set up with a low buy-in of $10.
 ## The Draft
 
 ### Buy-In and Pre-Draft
-This year's buy-in fee will be $60 per team. This will likely be the new set
-buy-in amount to accomodate our new [prizing structure](#the-prizes). Future
-drafts will hosted in-person, however, this draft will be a standard online
-draft. A link to a Google Meet call will be provided on the official Facebook
-group roughly 30-60 minutes before the start of the draft. Although it will not
-be enforced, a beer-in-hand is strongly encouraged when you join the call to
-avoid ridicule from the other team managers.
+This year's buy-in is located in the
+[summary of important information section](#summary-of-important-info). The
+buy-in amount has been set to properly allocate towards our
+[prizing structure](#the-prizes). Drafts will be held in-person. Please make
+your best effort to attend the draft, although it is understood that some will
+not be able to attend in person, for which you will be able to join remotely.
+A link to a Google Meet call will be provided on the official Facebook group
+roughly 30-60 minutes before the start of the draft. Although it will not
+enforced, a beer-in-hand is strongly encouraged when joining the call to avoid
+ridicule from the other team managers.
 
 <br />
 
 ### Draft Day
-__Draft Date & Time:__ Sunday Oct 10th, 2021 @ 2:00pm EDT
 
 The commissioner will make their best effort to ensure that the date and time
 chosen for the draft can accomodate the most amount of people possible (ideally
@@ -203,7 +205,7 @@ you must draft at that position. There will be no trading of draft positions.
   soon as they are posted and seen
 * Trades involving the commissioner will wait the full 24 hours to allow time
   to protest the trade
-* Playoffs start week 22 and will involve the top 8 teams in the league
+* Playoffs start week 23 and will involve the top 8 teams in the league
 * Playoff tie-breakers are awarded to the higher seed from the regular season
 * There will be four divisions to which everyone will be assigned, but
   they serve no purpose other than playing into the Team Bonding prop
@@ -257,7 +259,7 @@ props you enjoyed and didn't enjoy to help improve the league the following
 season.
 
 One more note for props - the most money you can lose to prop violations will
-cap at __$10 per day__, and also will cap at __$40 for the season__. If a prop
+cap at __$10 per day__, and also will cap at __$30 for the season__. If a prop
 violation occurs for a past date, the date of the infraction will be the day
 used to check if the cap was hit. In the event where there is no day associated
 with the infraction or the day that the infraction occurred is not explicitly
@@ -300,16 +302,16 @@ __Time Is Money__
 
 With PIMs as a category, it's only fair that a prop be introduced to negate
 the benefits of drafting enforcers in the later rounds. This prop will
-penalize players who earn over 10 minutes worth of penalties in a single game.
+penalize players who earn over 5 minutes worth of penalties in a single game.
 This prop will only apply to active players that were not benched nor on IR+.
 The fun part about this prop - if the violating player scores a goal during the
 game, then this prop will be __completely__ negated on this day for this
 player.
 
 The penalty for breaking this violation will result in $1 dollar owed for every
-PIM over the 10 minute mark. For example, if Player A on your team amasses 13
-PIMs while playing, Player B amasses 6 PIMs, and Player C amasses 17 PIMs but
-is benched, then you would owe $3 since only Player A amassed more than 10 PIMs
+PIM over the 5 minute mark. For example, if Player A on your team amasses 13
+PIMs while playing, Player B amasses 5 PIMs, and Player C amasses 17 PIMs but
+is benched, then you would owe $8 since only Player A amassed more than 5 PIMs
 while playing. If Player A also happened to score a goal that game, then you
 would owe $0 since the prop would be negated for them.
 
@@ -348,18 +350,15 @@ Rejoice with your fellow division mates! The divisions serve no purpose other
 than to use for a fun prop. Root on your division mates since their success is
 now important to you too! At the end of the season, after playoffs have
 concluded and the winner has been decided, each of the division mates of the
-winner (excluding the winner themself) will receive $60 just for being in the
+winner (excluding the winner themself) will receive half of their buy-in ($35,
+or in the event of a division of 3 wins, then around $47) just for being in the
 same division as the winner! If the 2nd or 3rd place finisher is also in the
-same division as the winner, then the prizes will stack.
+same division as the winner, then their prizes will stack (first place finish
+does not stack with the Team Bonding payout since first place will __always__
+be in the same division as the winner (since they are the winner))
 
-Divisions will be split into 4 groups of 4, and the division leaders will make
-their selections as to who will be a part of their division immediately
-following the draft. Division leaders will be determined by the first four
-people to both pay their buy-in fee __and__ register their team in the pool.
-When it comes time for the leaders to draft their divisions, the order will be
-determined by the order of who paid their buy-in and registered their team
-first. The selection process will snake until all divisions have been completely
-filled.
+Divisions will be decided by the commissioner immediately following the
+conclusion of the draft.
 
 <br />
 
@@ -368,9 +367,9 @@ filled.
 ### Top Finishers
 The prizing structure will now include prizes for the top 3 finishers. They
 will be as follows:
-* 1st Place: $550
-* 2nd Place: $150
-* 3rd Place: $60
+* 1st Place: $630 (9x buy-in)
+* 2nd Place: $140 (2x buy-in)
+* 3rd Place: $70 (1x buy-in)
 
 I don't care if you make side deals to split the pot if you want, but know that
 I will be sending out the prize amounts based solely on the structure above. If
@@ -384,9 +383,7 @@ The __Team Bonding__ prop has a direct payout that is unrelated to the total
 running prop pool. That prop has funds allocated directly from the buy-in funds
 and will be distributed independant of this prop pool. All of the other props,
 however, will contribute directly to the running prop pool and will be awarded
-to a single team at the end of the season. The prop pool will be initially
-funded by $20 from the buy-in funds, and will have contributions added for
-every prop violation thereafter.
+to a single team at the end of the season.
 
 Once the season (including playoffs) has concluded, a random category will be
 chosen. The selection process for this category, much like the draft order
@@ -400,7 +397,7 @@ the leader of that category will win the entire prop violation fund. If there
 is a tie between multiple people, then a second random category will be
 selected as the tie-breaker between the tied individuals. If more randomly
 selected categories are needed in order to break the tie, then more categories
-will be randomly selected until the tie is broken. 
+will be randomly selected until the tie is broken.
 
 <br />
 
@@ -414,11 +411,11 @@ following:
 * Supplying beer (at least 2 beers per person attending the draft)
 * Supplying food (your choice; pizza or wings would be ideal - not just chips!)
 
-Before you ask, yes, this will be on your own dime. It'll be like $50 to
+Before you ask, yes, this will be on your own dime. It'll be like $50-$100 to
 provide beer and food so if you're too broke to afford that then just don't
 come in last - simple as that! If you're participating from out of province,
 then you'll need to arrange with someone else in the league to host it on your
 behalf (and if you have trouble finding someone, the commissioner can always
 lend a hand). Also, if you come in last and decide that you won't be
 participating in the league the following season, then you will need to send
-the commissioner $50 in order to cover what you'll be skipping out on.
+the commissioner $75 in order to cover what you'll be skipping out on.
