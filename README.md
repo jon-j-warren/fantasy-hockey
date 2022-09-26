@@ -51,8 +51,8 @@ Year | # of Teams | 🥇 1st (3pts)       | 🥈 2nd (2pts)      | 🥉 3rd (1pt
 2014 | 10         | Ben Share (3)        | Matt Smith (8)     | George Reisman (7) | Josh Polisuk (5)
 
 __Top 5__
-2. 🥈 __Stuart McNamara__ (12 pts)
-1. 🥇 __Josh Polisuk__ (9 pts)
+1. 🥈 __Stuart McNamara__ (12 pts)
+2. 🥇 __Josh Polisuk__ (9 pts)
 4. 🥉 __Matt Renwick__ (8 pts)
 3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Ben Share__ (6 pts)
 5. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__George Reisman__ (2 pts)
