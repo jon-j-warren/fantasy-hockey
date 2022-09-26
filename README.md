@@ -205,11 +205,11 @@ you must draft at that position. There will be no trading of draft positions.
   Council - a commitee consisting of the top 3 historical winners in our league.
   Please see the [Hall of Fame](#hall-of-fame) for the list of people sitting
   in The Council. In order to veto a trade, The Council must vote at least 2-1
-  in favour of a veto. In the event that 2 members of The Council are
-  participating in a trade, then the commissioner will be called upon alongside
-  the other member of The Council to review the trade. In the event that the
-  commissioner already sits on The Council, then the historical 4th place
-  team from the Hall of Fame will be called upon to vote.
+  in favour of a veto. In the event that a member of The Council is
+  participating in a trade, then the historical 4th placed team from the Hall of
+  Fame will be called upon to vote. In the event that 2 members of The Council
+  are participating in a trade, then the historical 5th placed team from the
+  Hall of Fame will also be called upon to vote.
 * Playoffs start week 23 and will involve the top 8 teams in the league
 * Playoff tie-breakers are awarded to the higher seed from the regular season
 * There will be four divisions to which everyone will be assigned, but
