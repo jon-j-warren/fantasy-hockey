@@ -1,5 +1,5 @@
 # 2022-23 Fantasy Hockey
-__Version 1.6.1__
+__Version 1.6.2__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -65,24 +65,24 @@ season:
 
 _Asterisk (*) placed beside division captain_
 
-_Double Asterisk (**) placed beside commissioner_
+_Tilda (~) placed beside commissioner_
 
 Team Manager          | Team Name                  | Draft Position | Division
 --------------------- | -------------------------- | -------------- | --------
 Baylee Rubinoff       | x                          | x              | x
-Ben Share             | x                          | x              | x
+Ben Share *           | x                          | x              | x
 Cameron Butler        | x                          | x              | x
 Daniel Adams          | x                          | x              | x
 George Reisman        | x                          | x              | x
 James Renwick         | x                          | x              | x
-Jon Warren **         | x                          | x              | x
-Josh Polisuk          | x                          | x              | x
+Jon Warren ~          | x                          | x              | x
+Josh Polisuk *        | x                          | x              | x
 Matt Renwick          | x                          | x              | x
 Riley Butler          | x                          | x              | x
-Sam Ives              | x                          | x              | x
+Sam Ives *            | x                          | x              | x
 Shane Liquornik       | x                          | x              | x
 Stuart McNamara       | x                          | x              | x
-Will Ives             | x                          | x              | x
+Will Ives *           | x                          | x              | x
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
@@ -181,13 +181,15 @@ well. It is uncertain as to whether or not Yahoo will count any additions
 towards your first week's adds, so be careful if planning on dropping some of
 your drafted players and picking up free agents.
 
-Draft order will be determined in advance of the draft by at least 24 hours. The
-ordering should be determined by complete randomness and no amount of skill or
-any other external factor should influence the ordering of the draft. The method
-of choosing the draft order will be determined on an annual basis, and must be
+Draft order will be determined in advance of the time of the draft. The ordering
+should be determined by complete randomness and no amount of skill or any other
+external factor should influence the ordering of the draft. The method of
+choosing the draft order will be determined on an annual basis, and must be
 presented live on video to all team managers who wish to attend the viewing
 to ensure complete impartialty and fairness. Once the order has been decided,
-you must draft at that position. There will be no trading of draft positions.
+trading of draft positions _is_ allowed, however, it must be agreed upon by both
+parties prior to the start of the draft, and it is applied to all rounds (you
+cannot trade draft positions for a single round only).
 
 <br />
 
@@ -362,8 +364,14 @@ same division as the winner, then their prizes will stack (first place finish
 does not stack with the Team Bonding payout since first place will __always__
 be in the same division as the winner (since they are the winner))
 
-Divisions will be decided by the commissioner immediately following the
-conclusion of the draft.
+Divisional captains will be decided by the first 4 people to both register and
+pay the league dues for the season. The first 2 of those 4 will get to decide
+whether they would like their division to have 3 or 4 teams (deciding whether to
+opt for trying for a high prize versus a better chance at winning).
+
+The divisions will be named and drafted immediately following the conclusion of
+the live draft, and will be drafted in snake ordering (where the ordering is
+determined by whoever registered and paid earlier drafts earlier).
 
 <br />
 
