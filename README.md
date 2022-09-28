@@ -1,5 +1,5 @@
 # 2022-23 Fantasy Hockey
-__Version 1.6.2__
+__Version 1.6.3__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -69,20 +69,20 @@ _Tilda (~) placed beside commissioner_
 
 Team Manager          | Team Name                  | Draft Position | Division
 --------------------- | -------------------------- | -------------- | --------
-Baylee Rubinoff       | x                          | x              | x
-Ben Share *           | x                          | x              | x
-Cameron Butler        | x                          | x              | x
-Daniel Adams          | x                          | x              | x
-George Reisman        | x                          | x              | x
-James Renwick         | x                          | x              | x
-Jon Warren ~          | x                          | x              | x
-Josh Polisuk *        | x                          | x              | x
-Matt Renwick          | x                          | x              | x
-Riley Butler          | x                          | x              | x
-Sam Ives *            | x                          | x              | x
-Shane Liquornik       | x                          | x              | x
-Stuart McNamara       | x                          | x              | x
-Will Ives *           | x                          | x              | x
+Baylee Rubinoff       | x                          | 10             | x
+Ben Share *           | x                          | 5              | x
+Cameron Butler        | x                          | 3              | x
+Daniel Adams          | x                          | 4              | x
+George Reisman        | x                          | 9              | x
+James Renwick         | x                          | 2              | x
+Jon Warren ~          | x                          | 6              | x
+Josh Polisuk *        | x                          | 14             | x
+Matt Renwick          | x                          | 8              | x
+Riley Butler          | x                          | 7              | x
+Sam Ives *            | x                          | 1              | x
+Shane Liquornik       | x                          | 12             | x
+Stuart McNamara       | x                          | 11             | x
+Will Ives *           | x                          | 13             | x
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
@@ -233,8 +233,8 @@ These will be the roster positions for the upcoming season:
 * 3 Defencemen
 * 1 Utility (Forward or Defenceman)
 * 2 Goalies
-* 4 Bench Spots
-* 1 IR+ Spot
+* 3 Bench Spots
+* 2 IR+ Spot
 
 <br />
 
