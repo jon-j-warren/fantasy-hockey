@@ -1,5 +1,5 @@
-# 2022-23 Fantasy Hockey
-__Version 1.6.3__
+# 2023-24 Fantasy Hockey
+__Version 2.0.0__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -41,6 +41,7 @@ be promptly corrected in this document.
 _*Draft position denoted by bracketed number beside name_
 Year | # of Teams | 🥇 1st (3pts)       | 🥈 2nd (2pts)      | 🥉 3rd (1pt)       | ☠️ Last (-2pts)
 ---- | ---------- | -------------------- | ------------------ | ------------------ | ----------------
+2022 | 14         | Riley Butler (7)     | Cameron Butler (3) | Matt Renwick (8)   | Will Ives (13)
 2021 | 16         | Stuart McNamara (14) | Matt Renwick (3)   | James Renwick (8)  | Tyler Corlett (7)
 2020 | 14         | Stuart McNamara (5)  | Josh Polisuk (3)   | Matt Renwick (10)  | George Reisman (12)
 2019 | 12         | Stuart McNamara (7)  | Matt Renwick (11)  | George Reisman (9) | James Renwick (10)
@@ -53,15 +54,14 @@ Year | # of Teams | 🥇 1st (3pts)       | 🥈 2nd (2pts)      | 🥉 3rd (1pt
 __Top 5__
 1. 🥇 __Stuart McNamara__ (12 pts)
 2. 🥈 __Josh Polisuk__ (9 pts)
-4. 🥉 __Matt Renwick__ (8 pts)
+4. 🥉 __Matt Renwick__ (9 pts)
 3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Ben Share__ (6 pts)
 5. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__George Reisman__ (2 pts)
 
 <br />
 
 ### Participants
-The following team managers have confirmed their participation for the 2022
-season:
+The following team managers have confirmed their participation for the season:
 
 _Asterisk (*) placed beside division captain_
 
@@ -69,20 +69,20 @@ _Tilda (~) placed beside commissioner_
 
 Team Manager          | Team Name                  | Draft Position | Division
 --------------------- | -------------------------- | -------------- | --------
-Baylee Rubinoff       | x                          | 10             | x
-Ben Share *           | x                          | 5              | x
-Cameron Butler        | x                          | 3              | x
-Daniel Adams          | x                          | 4              | x
-George Reisman        | x                          | 9              | x
-James Renwick         | x                          | 2              | x
-Jon Warren ~          | x                          | 6              | x
-Josh Polisuk *        | x                          | 14             | x
-Matt Renwick          | x                          | 8              | x
-Riley Butler          | x                          | 7              | x
-Sam Ives *            | x                          | 1              | x
-Shane Liquornik       | x                          | 12             | x
-Stuart McNamara       | x                          | 11             | x
-Will Ives *           | x                          | 13             | x
+Aiden Craig           | x                          | x              | x
+Baylee Rubinoff       | x                          | x              | x
+Ben Share             | x                          | x              | x
+Cameron Butler        | x                          | x              | x
+Daniel Adams          | x                          | x              | x
+George Reisman        | x                          | x              | x
+James Renwick         | x                          | x              | x
+Jon Warren ~          | x                          | x              | x
+Josh Polisuk          | x                          | x              | x
+Matt Renwick          | x                          | x              | x
+Riley Butler          | x                          | x              | x
+Sam Ives              | x                          | x              | x
+Shane Liquornik       | x                          | x              | x
+Stuart McNamara       | x                          | x              | x
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
@@ -91,14 +91,14 @@ avoid the need to constantly update this section with new team names_
 
 ### Summary of Important Info
 
-__Draft Day__: Wednesday, Sept. 28, 2022
+__Draft Day__: Sunday, Oct. 1, 2023
 
-__Draft Time__: 8:30pm ET
+__Draft Time__: 8:00pm ET
 
 __Buy-In__: $100 (send to jonjakobwarren@gmail.com) ($70 buy-in, $30 prop coverage)
 
 __Provider__: Yahoo Fantasy Sports (sign up [here](
-    https://hockey.fantasysports.yahoo.com/hockey/31135/invitation?key=f3f7ab84b60fef47
+    https://hockey.fantasysports.yahoo.com/hockey/83893/invitation?key=5e4c8168e207eac3&soc_trk=lnk&ikey=a388edc08b468b05
 ))
 
 <br />
@@ -143,8 +143,6 @@ Challenge system) will also be set up with a low buy-in as well (likely $10).
 ### Suggestions
 Suggestions to improve the league will be kept track here. This will change
 frequently throughout the season.
-
-* Waiver wire priority determined by average draft pick time
 
 <br />
 
@@ -212,7 +210,7 @@ cannot trade draft positions for a single round only).
   Fame will be called upon to vote. In the event that 2 members of The Council
   are participating in a trade, then the historical 5th placed team from the
   Hall of Fame will also be called upon to vote.
-* Playoffs start week 23 and will involve the top 8 teams in the league
+* Playoffs start week 27 and will involve the top 8 teams in the league
 * Playoff tie-breakers are awarded to the higher seed from the regular season
 * There will be four divisions to which everyone will be assigned, but
   they serve no purpose other than playing into the Team Bonding prop
@@ -424,11 +422,12 @@ following:
 * Supplying beer (at least 2 beers per person attending the draft)
 * Supplying food (your choice; pizza or wings would be ideal - not just chips!)
 
-Before you ask, yes, this will be on your own dime. It'll be like $50-$100 to
-provide beer and food so if you're too broke to afford that then just don't
-come in last - simple as that! If you're participating from out of province,
-then you'll need to arrange with someone else in the league to host it on your
-behalf (and if you have trouble finding someone, the commissioner can always
-lend a hand). Also, if you come in last and decide that you won't be
-participating in the league the following season, then you will need to send
-the commissioner $75 in order to cover what you'll be skipping out on.
+Before you ask, yes, this will be on your own dime. However, $35 of the league
+dues will be reserved in order to help cover _some_ of the costs (aka about
+enough to cover a case of beer). For the food though - you're on your own. If
+you're participating from out of province, then you'll need to arrange with
+someone else in the league to host it on your behalf (and if you have trouble
+finding someone, the commissioner can always lend a hand). Also, if you come in
+last and decide that you won't be participating in the league the following
+season, then you will need to send the commissioner $75 in order to cover what
+you'll be skipping out on.
