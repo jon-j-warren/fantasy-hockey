@@ -1,5 +1,5 @@
 # 2023-24 Fantasy Hockey
-__Version 2.0.0__
+__Version 2.1.0__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -41,7 +41,7 @@ be promptly corrected in this document.
 _*Draft position denoted by bracketed number beside name_
 Year | # of Teams | 🥇 1st (3pts)       | 🥈 2nd (2pts)      | 🥉 3rd (1pt)       | ☠️ Last (-2pts)
 ---- | ---------- | -------------------- | ------------------ | ------------------ | ----------------
-2022 | 14         | Riley Butler (7)     | Cameron Butler (3) | Matt Renwick (8)   | Will Ives (13)
+2022 | 14         | Riley Butler (7)     | Matt Renwick (8)   | Cameron Butler (3) | Will Ives (13)
 2021 | 16         | Stuart McNamara (14) | Matt Renwick (3)   | James Renwick (8)  | Tyler Corlett (7)
 2020 | 14         | Stuart McNamara (5)  | Josh Polisuk (3)   | Matt Renwick (10)  | George Reisman (12)
 2019 | 12         | Stuart McNamara (7)  | Matt Renwick (11)  | George Reisman (9) | James Renwick (10)
@@ -53,10 +53,10 @@ Year | # of Teams | 🥇 1st (3pts)       | 🥈 2nd (2pts)      | 🥉 3rd (1pt
 
 __Top 5__
 1. 🥇 __Stuart McNamara__ (12 pts)
-2. 🥈 __Josh Polisuk__ (9 pts)
-4. 🥉 __Matt Renwick__ (9 pts)
+2. 🥈 __Matt Renwick__ (10 pts)
+4. 🥉 __Josh Polisuk__ (9 pts)
 3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Ben Share__ (6 pts)
-5. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__George Reisman__ (2 pts)
+5. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Riley Butler__ (3 pts)
 
 <br />
 
@@ -70,7 +70,7 @@ _Tilda (~) placed beside commissioner_
 Team Manager          | Team Name                  | Draft Position | Division
 --------------------- | -------------------------- | -------------- | --------
 Aiden Craig           | x                          | x              | x
-Baylee Rubinoff       | x                          | x              | x
+Baylee Rubinoff *     | x                          | x              | x
 Ben Share             | x                          | x              | x
 Cameron Butler        | x                          | x              | x
 Daniel Adams          | x                          | x              | x
@@ -78,8 +78,8 @@ George Reisman        | x                          | x              | x
 James Renwick         | x                          | x              | x
 Jon Warren ~          | x                          | x              | x
 Josh Polisuk          | x                          | x              | x
-Matt Renwick          | x                          | x              | x
-Riley Butler          | x                          | x              | x
+Matt Renwick *        | x                          | x              | x
+Riley Butler *        | x                          | x              | x
 Sam Ives              | x                          | x              | x
 Shane Liquornik       | x                          | x              | x
 Stuart McNamara       | x                          | x              | x
@@ -179,10 +179,15 @@ well. It is uncertain as to whether or not Yahoo will count any additions
 towards your first week's adds, so be careful if planning on dropping some of
 your drafted players and picking up free agents.
 
-Draft order will be determined in advance of the time of the draft. The ordering
-should be determined by complete randomness and no amount of skill or any other
-external factor should influence the ordering of the draft. The method of
-choosing the draft order will be determined on an annual basis, and must be
+Draft order will be determined in advance of the time of the draft. The draft
+position selection lottery should be determined by complete randomness and no
+amount of skill or any other external factor should influence the ordering of
+the draft position selection. Once the order of the draft position selection
+has been decided, teams will send me their preferred position order up until 1
+hour before the draft. If you haven't submitted your preferred draft position
+order by then, it will be assumed that you will want the next sequentially
+available position. The method of choosing the draft position selection order
+will be determined on an annual basis (usuall 100 yard rush), and must be
 presented live on video to all team managers who wish to attend the viewing
 to ensure complete impartialty and fairness. Once the order has been decided,
 trading of draft positions _is_ allowed, however, it must be agreed upon by both
@@ -429,5 +434,5 @@ you're participating from out of province, then you'll need to arrange with
 someone else in the league to host it on your behalf (and if you have trouble
 finding someone, the commissioner can always lend a hand). Also, if you come in
 last and decide that you won't be participating in the league the following
-season, then you will need to send the commissioner $75 in order to cover what
+season, then you will need to send the commissioner $50 in order to cover what
 you'll be skipping out on.
