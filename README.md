@@ -1,5 +1,5 @@
 # 2023-24 Fantasy Hockey
-__Version 2.1.1__
+__Version 2.1.2__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -69,20 +69,20 @@ _Tilda (~) placed beside commissioner_
 
 Team Manager          | Team Name                  | Draft Position | Division
 --------------------- | -------------------------- | -------------- | --------
-Aiden Craig           | x                          | 10             | x
-Baylee Rubinoff *     | x                          | 11             | x
-Ben Share             | x                          | 14             | x
-Cameron Butler        | x                          | 3              | x
-Daniel Adams          | x                          | 9              | x
-George Reisman        | x                          | 13             | x
-James Renwick         | x                          | 12             | x
-Jon Warren ~          | x                          | 1              | x
-Josh Polisuk          | x                          | 8              | x
-Matt Renwick *        | x                          | 4              | x
-Riley Butler *        | x                          | 6              | x
-Sam Ives              | x                          | 5              | x
-Shane Liquornik       | x                          | 2              | x
-Stuart McNamara       | x                          | 7              | x
+Aiden Craig           | x                          | 10             | Gentle Giraffes
+Baylee Rubinoff *     | x                          | 11             | Gentle Giraffes
+Ben Share *           | x                          | 14             | Squat Koalas
+Cameron Butler        | x                          | 3              | Gentle Giraffes
+Daniel Adams          | x                          | 9              | Brave Toads
+George Reisman        | x                          | 13             | Gentle Giraffes
+James Renwick         | x                          | 12             | Squat Koalas
+Jon Warren ~          | x                          | 1              | Squat Koalas
+Josh Polisuk          | x                          | 8              | White Elephants
+Matt Renwick *        | x                          | 4              | White Elephants
+Riley Butler *        | x                          | 6              | Brave Toads
+Sam Ives              | x                          | 5              | Brave Toads
+Shane Liquornik       | x                          | 2              | White Elephants
+Stuart McNamara       | x                          | 7              | Brave Toads
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
