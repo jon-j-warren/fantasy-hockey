@@ -1,5 +1,5 @@
-# 2023-24 Fantasy Hockey
-__Version 2.1.2__
+# 2024-25 Fantasy Hockey
+__Version 2.2.0__
 
 ## Table of Contents
 * [Overview](#overview)
@@ -39,21 +39,22 @@ be promptly corrected in this document.
 
 ### Hall of Fame
 _*Draft position denoted by bracketed number beside name_
-Year | # of Teams | 🥇 1st (3pts)       | 🥈 2nd (2pts)      | 🥉 3rd (1pt)       | ☠️ Last (-2pts)
----- | ---------- | -------------------- | ------------------ | ------------------ | ----------------
-2022 | 14         | Riley Butler (7)     | Matt Renwick (8)   | Cameron Butler (3) | Will Ives (13)
-2021 | 16         | Stuart McNamara (14) | Matt Renwick (3)   | James Renwick (8)  | Tyler Corlett (7)
-2020 | 14         | Stuart McNamara (5)  | Josh Polisuk (3)   | Matt Renwick (10)  | George Reisman (12)
-2019 | 12         | Stuart McNamara (7)  | Matt Renwick (11)  | George Reisman (9) | James Renwick (10)
-2018 | 12         | Stuart McNamara (4)  | James Renwick (11) | Ben Share (7)      | Chris Landon (3)
-2017 | 12         | Josh Polisuk (5)     | George Reisman (3) | Matt Renwick (2)   | Sam Ives (12)
-2016 | 12         | Josh Polisuk (12)    | Matt Renwick (7)   | Brittany Gibb (4)  | Hannah Wagner (9)
-2015 | 12         | Josh Polisuk (6)     | Ben Share (4)      | Jon Warren (5)     | Matt Smith (3)
-2014 | 10         | Ben Share (3)        | Matt Smith (8)     | George Reisman (7) | Josh Polisuk (5)
+Year | # of Teams | 🥇 1st (3pts)        | 🥈 2nd (2pts)       | 🥉 3rd (1pt)         | ☠️ Last (-2pts)
+---- | ---------- | -------------------- | ------------------ | -------------------- | ----------------
+2023 | 14         | Matt Renwick (3)     | Cameron Butler (3) | Baylee Rubinoff (11) | Aiden Craig (10)
+2022 | 14         | Riley Butler (7)     | Matt Renwick (8)   | Cameron Butler (3)   | Will Ives (13)
+2021 | 16         | Stuart McNamara (14) | Matt Renwick (3)   | James Renwick (8)    | Tyler Corlett (7)
+2020 | 14         | Stuart McNamara (5)  | Josh Polisuk (3)   | Matt Renwick (10)    | George Reisman (12)
+2019 | 12         | Stuart McNamara (7)  | Matt Renwick (11)  | George Reisman (9)   | James Renwick (10)
+2018 | 12         | Stuart McNamara (4)  | James Renwick (11) | Ben Share (7)        | Chris Landon (3)
+2017 | 12         | Josh Polisuk (5)     | George Reisman (3) | Matt Renwick (2)     | Sam Ives (12)
+2016 | 12         | Josh Polisuk (12)    | Matt Renwick (7)   | Brittany Gibb (4)    | Hannah Wagner (9)
+2015 | 12         | Josh Polisuk (6)     | Ben Share (4)      | Jon Warren (5)       | Matt Smith (3)
+2014 | 10         | Ben Share (3)        | Matt Smith (8)     | George Reisman (7)   | Josh Polisuk (5)
 
 __Top 5__
-1. 🥇 __Stuart McNamara__ (12 pts)
-2. 🥈 __Matt Renwick__ (10 pts)
+1. 🥇 __Matt Renwick__ (13 pts)
+2. 🥈 __Stuart McNamara__ (12 pts)
 4. 🥉 __Josh Polisuk__ (9 pts)
 3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Ben Share__ (6 pts)
 5. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Riley Butler__ (3 pts)
@@ -69,20 +70,20 @@ _Tilda (~) placed beside commissioner_
 
 Team Manager          | Team Name                  | Draft Position | Division
 --------------------- | -------------------------- | -------------- | --------
-Aiden Craig           | x                          | 10             | Gentle Giraffes
-Baylee Rubinoff *     | x                          | 11             | Gentle Giraffes
-Ben Share *           | x                          | 14             | Squat Koalas
-Cameron Butler        | x                          | 3              | Gentle Giraffes
-Daniel Adams          | x                          | 9              | Brave Toads
-George Reisman        | x                          | 13             | Gentle Giraffes
-James Renwick         | x                          | 12             | Squat Koalas
-Jon Warren ~          | x                          | 1              | Squat Koalas
-Josh Polisuk          | x                          | 8              | White Elephants
-Matt Renwick *        | x                          | 4              | White Elephants
-Riley Butler *        | x                          | 6              | Brave Toads
-Sam Ives              | x                          | 5              | Brave Toads
-Shane Liquornik       | x                          | 2              | White Elephants
-Stuart McNamara       | x                          | 7              | Brave Toads
+Aiden Craig           | x                          |                |
+Baylee Rubinoff       | x                          |                |
+Ben Share             | x                          |                |
+Cameron Butler        | x                          |                |
+Daniel Adams          | x                          |                |
+George Reisman        | x                          |                |
+James Renwick         | x                          |                |
+Jon Warren ~          | x                          |                |
+Josh Polisuk          | x                          |                |
+Matt Renwick          | x                          |                |
+Riley Butler          | x                          |                |
+Sam Ives              | x                          |                |
+Shane Liquornik       | x                          |                |
+Stuart McNamara       | x                          |                |
 
 _Note: Team names will be locked on the first day of the regular season to
 avoid the need to constantly update this section with new team names_
@@ -91,14 +92,14 @@ avoid the need to constantly update this section with new team names_
 
 ### Summary of Important Info
 
-__Draft Day__: Sunday, Oct. 1, 2023
+__Draft Day__: Sunday, Sep. 29, 2024
 
-__Draft Time__: 8:00pm ET
+__Draft Time__: 9:00pm ET
 
 __Buy-In__: $100 (send to jonjakobwarren@gmail.com) ($70 buy-in, $30 prop coverage)
 
 __Provider__: Yahoo Fantasy Sports (sign up [here](
-    https://hockey.fantasysports.yahoo.com/hockey/83893/invitation?key=5e4c8168e207eac3&soc_trk=lnk&ikey=a388edc08b468b05
+    https://hockey.fantasysports.yahoo.com/hockey/94950/invitation?key=c6ba943849fedd04&soc_trk=lnk&ikey=55dcdb716297efa8
 ))
 
 <br />
