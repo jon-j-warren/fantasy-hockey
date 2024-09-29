@@ -41,7 +41,7 @@ be promptly corrected in this document.
 _*Draft position denoted by bracketed number beside name_
 Year | # of Teams | 🥇 1st (3pts)        | 🥈 2nd (2pts)       | 🥉 3rd (1pt)         | ☠️ Last (-2pts)
 ---- | ---------- | -------------------- | ------------------ | -------------------- | ----------------
-2023 | 14         | Matt Renwick (3)     | Cameron Butler (3) | Baylee Rubinoff (11) | Aiden Craig (10)
+2023 | 14         | Matt Renwick (4)     | Cameron Butler (3) | Baylee Rubinoff (11) | Aiden Craig (10)
 2022 | 14         | Riley Butler (7)     | Matt Renwick (8)   | Cameron Butler (3)   | Will Ives (13)
 2021 | 16         | Stuart McNamara (14) | Matt Renwick (3)   | James Renwick (8)    | Tyler Corlett (7)
 2020 | 14         | Stuart McNamara (5)  | Josh Polisuk (3)   | Matt Renwick (10)    | George Reisman (12)
